@@ -11,3 +11,4 @@ I use it to regularly upload queries while learning and improving my SQL skills.
 ## Purpose
 To track my SQL learning journey and keep all practice work organized in one place.
 
+
