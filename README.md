@@ -1,6 +1,6 @@
 # SQL Practice & Exercises
 
-This repository contains my **SQL exercises and code practice**.  
+This repository contains my **SQL exercises and code practice**.   
 I use it to regularly upload queries while learning and improving my SQL skills.
 
 ## What’s inside
