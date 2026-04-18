@@ -8,7 +8,7 @@ I use it to regularly upload queries while learning and improving my SQL skills.
 - Topic-wise exercises (e.g., SELECT, WHERE, GROUP BY, JOINs, subqueries, CTEs)
 - Problem-solving queries for revision
 
-## Purpose
+## Purpose 
 To track my SQL learning journey and keep all practice work organized in one place.
 
 
